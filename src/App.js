@@ -43,7 +43,7 @@ function App() {
       price:"35000",
       isEnabled:true
    }
-  ]
+   ]
   const [empty,fill]=useState([])
   let addtocart=(details)=>{
     fill([...empty,details])
