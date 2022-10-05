@@ -19,7 +19,7 @@ function Card({items,addtocart}) {
             </div>
         </div>
    
-  )
+   )
 }
 
 export default Card;
