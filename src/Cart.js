@@ -11,7 +11,7 @@ function Cart({list}) {
                 </div>
                    
         })
-        }
+         }
         
         <h1>Total:Rs.{
             list.reduce((prev,curr)=>{
